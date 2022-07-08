@@ -10,5 +10,6 @@ public class ProfileTest {
 
         System.out.println("1234");
         System.out.println("master commit");
+        System.out.println("hot-fix");
     }
 }
