@@ -7,5 +7,7 @@ public class ProfileTest {
         new Thread(()->{
             System.out.println(Thread.currentThread().getName() + " is working");
         });
+
+        System.out.println("1234");
     }
 }
