@@ -8,6 +8,8 @@ public class ProfileTest {
         System.out.println("2234");
         System.out.println("525");
         System.out.println("52341");
+        System.out.println("525");
+        System.out.println("1234");
     }
 }
 
