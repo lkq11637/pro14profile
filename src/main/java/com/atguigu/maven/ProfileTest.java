@@ -6,6 +6,7 @@ public class ProfileTest {
         System.out.println("2345");
         System.out.println("1234");
         System.out.println("2234");
+        System.out.println("525");
     }
 }
 
