@@ -19,6 +19,7 @@ public class ProfileTest {
         System.out.println("git test123");
 
         System.out.println("123");
+        System.out.println("pc2");
     }
 }
 
